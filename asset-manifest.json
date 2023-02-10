@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jt5d.github.io/csb-bsk97u/static/css/main.85bcd983.chunk.css",
+    "main.js": "https://jt5d.github.io/csb-bsk97u/static/js/main.1b466479.chunk.js",
+    "main.js.map": "https://jt5d.github.io/csb-bsk97u/static/js/main.1b466479.chunk.js.map",
+    "runtime-main.js": "https://jt5d.github.io/csb-bsk97u/static/js/runtime-main.0d816814.js",
+    "runtime-main.js.map": "https://jt5d.github.io/csb-bsk97u/static/js/runtime-main.0d816814.js.map",
+    "static/js/2.a03e8e6b.chunk.js": "https://jt5d.github.io/csb-bsk97u/static/js/2.a03e8e6b.chunk.js",
+    "static/js/2.a03e8e6b.chunk.js.map": "https://jt5d.github.io/csb-bsk97u/static/js/2.a03e8e6b.chunk.js.map",
+    "index.html": "https://jt5d.github.io/csb-bsk97u/index.html",
+    "static/css/main.85bcd983.chunk.css.map": "https://jt5d.github.io/csb-bsk97u/static/css/main.85bcd983.chunk.css.map",
+    "static/js/2.a03e8e6b.chunk.js.LICENSE.txt": "https://jt5d.github.io/csb-bsk97u/static/js/2.a03e8e6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d816814.js",
+    "static/js/2.a03e8e6b.chunk.js",
+    "static/css/main.85bcd983.chunk.css",
+    "static/js/main.1b466479.chunk.js"
+  ]
+}
